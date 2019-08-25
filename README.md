@@ -8,7 +8,7 @@ Nuestro algoritmo de Machine Learning se encuentra localizado en ```jda.py```
 
 2. Activar el virtual environment o descargar las dependencias que se mencionan en el archivo ```Pipfile```
 
-3. Ejecutar el archivo ```jda.py``` **con el virtual environment ya activado** de la siguiente manera
+3. Ejecutar el archivo ```jda.py``` de la siguiente manera
 
     ```bash
     $ python3 jda.py
